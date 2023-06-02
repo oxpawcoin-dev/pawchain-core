@@ -1,4 +1,4 @@
-# PawChain Network 
+# PawChain Core 
 
 A singularity chain order Proof of reserve blockchain architecture utilizing zero-knowledge proof for seamless multi blockchain network interaction and Interoperability.
 
